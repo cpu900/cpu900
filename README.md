@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cpu900
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in Cybersec, Networking, Blockchain/Web3
+- 🌱 I’m currently learning about Hacking.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 [Telegram: Send me a message](https://t.me/alextofer)
 
 <!---
 cpu900/cpu900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
